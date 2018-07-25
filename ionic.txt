@@ -1,0 +1,31 @@
+Components: https://ionicframework.com/docs//components
+
+Action sheets = modal box bottom page with some buttons
+Alert = JS alert with possible options or inputs
+Badges = little bubble to show a number (eg number of Facebook likes)
+Buttons = bootstrap styled buttons
+Cards = Content Blocks for text, images or both. Can as well contain lists.
+Checkboxes = checkboxes...
+Datetime = input to select date and/or time
+FAB = Floating Action Buttons. Round buttons floating over the display
+Gestures = gestures handler. tap, press, pan, swipe, rotate and pinch events.
+Grid = Flexbox grid. Similar to bootstrap
+Icons = ionic icons, accessible by setting the attribute name.
+Inputs = HTML text inputs
+Lists = Lists. can include icons, avatars, multi line, checkboxes/sliders, slide action buttons, ...
+Loading = spinner
+Menu = side menu navigation
+Modals = like alert, but full page
+Navigation = root page, nav controller push/pop
+Popover = view floating atop the app (use?)
+Radio = HTML radio button
+Range = slider with one or more buttons
+Searchbar = search bar...
+Segments = buttons displayed inline to hide and show elements
+Select = select.
+Slides = carousel of images/pages
+Tabs = navigation tabs top or bottom. Can be text only, icon only, icon and text, with badges, ...
+Toast = Android Toast. Can be displayed anywhere on the page
+Toggle = boolean slider
+Toolbar = like the header bar. can also be footer and have different colors. can have buttons and segments. Can have searchbar.
+
